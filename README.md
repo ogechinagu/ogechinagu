@@ -1,8 +1,11 @@
-<p align="center">Hey there👋! I'm Oge, a Frontend React Software Engineer who loves turning code into fantastic digital experiences. I transitioned from leading an experience design and automation team to specializing in building top-notch frontend web applications and now tinkering on backend 😄</p>
+<p align="center">Hey there👋! I'm Oge, a Frontend React Software Engineer who loves turning code into fantastic digital experiences.</p>
+
+<p align="center">I transitioned from leading an experience design and automation team to specializing in building top-notch frontend web applications and now tinkering on backend 😄</p>
 
 ###
 
-<p align="left"></p>
+<h1 align="left"></h1>
+<br clear="both">
 
 ###
 
@@ -28,7 +31,8 @@
 
 ###
 
-<p align="left"></p>
+<h1 align="left"></h1>
+<br clear="both">
 
 ###
 
@@ -54,15 +58,14 @@
 
 ###
 
-<p align="left"></p>
+<h1 align="left"></h1>
+<br clear="both">
 
 ###
 
 <h6 align="center">📫 Contact me:</h6>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://facebook.com/Ogechinagu/" target="_blank">
@@ -78,13 +81,15 @@
 
 ###
 
-<p align="left"></p>
+<h1 align="left"></h1>
+<br clear="both">
 
 ###
 
 ###
 
-<p align="left"></p>
+<h1 align="left"></h1>
+<br clear="both">
 
 ###
 
