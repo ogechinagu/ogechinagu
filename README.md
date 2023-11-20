@@ -24,7 +24,7 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
    <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/angular-original.svg" height="60" alt="react logo"  />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-1-logo-svg-vector.svg" height="60" alt="angular logo"  />
   <img width="30" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="30" />
